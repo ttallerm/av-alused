@@ -29,3 +29,8 @@ annab võrgu confi
 unicast
 broadcast
 multicast
+
+avalikud IP
+privaat IP
+
+TTL - Time To Live, iga järgmise ip kust läbi käib siis võtab väiksemaks 1 võrra.
